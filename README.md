@@ -39,7 +39,7 @@ Customer Demographics Study is an interactive Power BI dashboard designed to ana
 
 Udithra J S
 Computer Science Engineering Student
-
+Intern id: CITS3486
 🔗 GitHub Repository
 
 Customer-Demographics-Study
